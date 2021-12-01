@@ -12,3 +12,75 @@ Acknowledgements
 
 
 This dataset was created by the Allen Institute for AI in partnership with the Chan Zuckerberg Initiative, Georgetown University’s Center for Security and Emerging Technology, Microsoft Research, IBM, and the National Library of Medicine - National Institutes of Health, in coordination with The White House Office of Science and Technology Policy.
+
+
+
+
+Tasks
+What is known about transmission, incubation, and environmental stability?
+
+In COVID-19 Open Research Dataset Challenge (CORD-19)
+
+What do we know about COVID-19 risk factors?
+
+In COVID-19 Open Research Dataset Challenge (CORD-19)
+
+What do we know about vaccines and therapeutics?
+
+In COVID-19 Open Research Dataset Challenge (CORD-19)
+
+What do we know about virus genetics, origin, and evolution?
+
+In COVID-19 Open Research Dataset Challenge (CORD-19)
+
+What has been published about medical care?
+
+In COVID-19 Open Research Dataset Challenge (CORD-19)
+
+What do we know about non-pharmaceutical interventions?
+
+In COVID-19 Open Research Dataset Challenge (CORD-19)
+
+What has been published about ethical and social science considerations?
+
+In COVID-19 Open Research Dataset Challenge (CORD-19)
+
+What do we know about diagnostics and surveillance?
+
+In COVID-19 Open Research Dataset Challenge (CORD-19)
+
+What has been published about information sharing and inter-sectoral collaboration?
+
+In COVID-19 Open Research Dataset Challenge (CORD-19)
+
+Create summary tables that address relevant factors related to COVID-19
+
+In COVID-19 Open Research Dataset Challenge (CORD-19)
+
+Create summary tables that address therapeutics, interventions, and clinical studies
+
+In COVID-19 Open Research Dataset Challenge (CORD-19)
+
+Create summary tables that address risk factors related to COVID-19
+
+In COVID-19 Open Research Dataset Challenge (CORD-19)
+
+Create summary tables that address diagnostics for COVID-19
+
+In COVID-19 Open Research Dataset Challenge (CORD-19)
+
+Create summary tables that address material studies related to COVID-19
+
+In COVID-19 Open Research Dataset Challenge (CORD-19)
+
+Create summary tables that address models and open questions related to COVID-19
+
+In COVID-19 Open Research Dataset Challenge (CORD-19)
+
+Create summary tables that address population studies related to COVID-19
+
+In COVID-19 Open Research Dataset Challenge (CORD-19)
+
+Create summary tables that address patient descriptions related to COVID-19
+
+In COVID-19 Open Research Dataset Challenge (CORD-19)
