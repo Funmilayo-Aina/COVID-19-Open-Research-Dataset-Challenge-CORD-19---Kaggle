@@ -17,27 +17,17 @@ This dataset was created by the Allen Institute for AI in partnership with the C
 
 
 ## Tasks
-What is known about transmission, incubation, and environmental stability?
+What is known about transmission, incubation, and environmental stability? In COVID-19 Open Research Dataset Challenge (CORD-19)
 
-In COVID-19 Open Research Dataset Challenge (CORD-19)
+What do we know about COVID-19 risk factors? In COVID-19 Open Research Dataset Challenge (CORD-19)
 
-What do we know about COVID-19 risk factors?
+What do we know about vaccines and therapeutics? In COVID-19 Open Research Dataset Challenge (CORD-19)
 
-In COVID-19 Open Research Dataset Challenge (CORD-19)
-
-What do we know about vaccines and therapeutics?
-
-In COVID-19 Open Research Dataset Challenge (CORD-19)
-
-What do we know about virus genetics, origin, and evolution?
-
-In COVID-19 Open Research Dataset Challenge (CORD-19)
+What do we know about virus genetics, origin, and evolution? In COVID-19 Open Research Dataset Challenge (CORD-19)
 
 What has been published about medical care?
 
-In COVID-19 Open Research Dataset Challenge (CORD-19)
-
-What do we know about non-pharmaceutical interventions?
+In COVID-19 Open Research Dataset Challenge (CORD-19) What do we know about non-pharmaceutical interventions?
 
 In COVID-19 Open Research Dataset Challenge (CORD-19) What has been published about ethical and social science considerations?
 
